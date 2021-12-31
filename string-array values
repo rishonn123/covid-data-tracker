@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">CovidDataRequest</string>
+
+    <string-array name="states">
+        <item>al</item>
+        <item>ak</item>
+        <item>az</item>
+        <item>ar</item>
+        <item>ca</item>
+        <item>co</item>
+        <item>ct</item>
+        <item>de</item>
+        <item>fl</item>
+        <item>ga</item>
+        <item>hi</item>
+        <item>id</item>
+        <item>il</item>
+        <item>in</item>
+        <item>ia</item>
+        <item>ks</item>
+        <item>ky</item>
+        <item>la</item>
+        <item>me</item>
+        <item>md</item>
+        <item>ma</item>
+        <item>mi</item>
+        <item>mn</item>
+        <item>ms</item>
+        <item>mo</item>
+        <item>mt</item>
+        <item>ne</item>
+        <item>nv</item>
+        <item>nh</item>
+        <item>nj</item>
+        <item>nm</item>
+        <item>ny</item>
+        <item>nc</item>
+        <item>nd</item>
+        <item>oh</item>
+        <item>ok</item>
+        <item>or</item>
+        <item>pa</item>
+        <item>ri</item>
+        <item>sc</item>
+        <item>sd</item>
+        <item>tn</item>
+        <item>tx</item>
+        <item>ut</item>
+        <item>vt</item>
+        <item>va</item>
+        <item>wa</item>
+        <item>wv</item>
+        <item>wi</item>
+        <item>wy</item>
+
+
+    </string-array>
+
+</resources>
+
+
+
